@@ -1,4 +1,4 @@
-# cenosr
+# censor
 
 Currently there are many proposed methods to flag and censor hate speech and offensive words in text and in social media posts but there is none that a user can implement at their own end for censoring such words and phrases in real time over speech. These are often deployed at a company's discretion and with rules that they deem fit without an end user’s say in it. What happens if a service does not offer this?
 
